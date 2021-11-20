@@ -1,6 +1,7 @@
-import React, { useContext, useEffect, useState } from 'react';
-import { AppContext } from './AppContext';
-import axios from 'axios';
+// import React, { useContext, useEffect, useState } from 'react';
+import React from 'react';
+// import { AppContext } from './AppContext';
+// import axios from 'axios';
 
 if (module.hot) {
     module.hot.accept();
